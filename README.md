@@ -1,4 +1,4 @@
-# ASO Project ES
+# ASO Project En
 
 This project details the implementation and configuration of an IT infrastructure using **Windows Server 2012** for managing users, computers, and resources within a company. Below is a summary of the main components of the project.
 
@@ -121,7 +121,7 @@ El objetivo de este proyecto es proporcionar una infraestructura robusta para ge
 **Fecha:** 2 de febrero de 2022
 
 
-# Proyecto ASO
+# Proyecto ASO Es
 
 Este proyecto detalla la implementación y configuración de una infraestructura de TI utilizando **Windows Server 2012** para gestionar usuarios, computadoras y recursos dentro de una empresa. A continuación se presenta un resumen de los principales componentes del proyecto.
 
